@@ -15,3 +15,4 @@ def isUnique(str):
 if __name__ == "__main__":
     print(isUnique('thisissparta'))
     print(isUnique('Unique'))
+    print(ord('b'))
